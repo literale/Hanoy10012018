@@ -1,0 +1,9 @@
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\Hanoy10012018\Hanoy10012018\bin\Debug\Hanoy10012018.exe.config
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\Hanoy10012018\Hanoy10012018\bin\Debug\Hanoy10012018.exe
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\Hanoy10012018\Hanoy10012018\bin\Debug\Hanoy10012018.pdb
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\Hanoy10012018\Hanoy10012018\obj\Debug\Hanoy10012018.csprojResolveAssemblyReference.cache
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\Hanoy10012018\Hanoy10012018\obj\Debug\Hanoy10012018.Form1.resources
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\Hanoy10012018\Hanoy10012018\obj\Debug\Hanoy10012018.Properties.Resources.resources
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\Hanoy10012018\Hanoy10012018\obj\Debug\Hanoy10012018.csproj.GenerateResource.Cache
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\Hanoy10012018\Hanoy10012018\obj\Debug\Hanoy10012018.exe
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\Hanoy10012018\Hanoy10012018\obj\Debug\Hanoy10012018.pdb
